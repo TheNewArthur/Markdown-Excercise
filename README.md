@@ -15,8 +15,8 @@ This will learn us how to work with git and GitHub in team as well.
     --> So it should be a very good excercise for all of us.
 
 ### The Markdown.md file
-[Markdown.md](/TheNewArthur/Markdown-Excercise/blob/main/Markdown.md)
+[Markdown.md](Markdown.md)
 
 ### The team
 
-1. Arthur Pluym
+1. [Arthur Pluym](https://github.com/TheNewArthur)
