@@ -1,4 +1,6 @@
-# Markdown-Excercise
+# This is the Readme.md file
+
+## Markdown-Excercise
 This is the markdown excercise of BeCode
 
 In this excercise we need to make a repository that contains two files:
@@ -14,9 +16,11 @@ In order to do that we need to have a shared repository that we all clone to our
 This will learn us how to work with git and GitHub in team as well.
     --> So it should be a very good excercise for all of us.
 
+## The team
+
+1. [Arthur Pluym](https://github.com/TheNewArthur)
+
 ### The Markdown.md file
 [Markdown.md](Markdown.md)
 
-### The team
 
-1. [Arthur Pluym](https://github.com/TheNewArthur)
