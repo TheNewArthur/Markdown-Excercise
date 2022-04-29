@@ -16,5 +16,5 @@ Markdown is a plain text file text editor, also called a markup language, which 
 
 ## References
 
-[https://www.markdownguide.org/getting-started/] The markdown guide
+[The markdown guide](https://www.markdownguide.org/getting-started/)
 
