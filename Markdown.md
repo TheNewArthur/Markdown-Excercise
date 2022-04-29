@@ -13,8 +13,8 @@ Markdown is a plain text file text editor, also called a markup language, which 
 - Markdown is supported by gitHub and stackOverflow
 
 ### The Readme.md file
-[Readme.md](/TheNewArthur/Markdown-Excercise/blob/main/Readme.md)
-* Link:./Readme.md [Readme.md]
+[Readme.md](/Readme.md)
+[//]: # (Link:./Readme.md [Readme.md])
 
 ### References
 
