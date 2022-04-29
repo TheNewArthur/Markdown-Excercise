@@ -12,9 +12,10 @@ Markdown is a plain text file text editor, also called a markup language, which 
 - Markdown is usable for everything -creating files, websites,...-
 - Markdown is supported by gitHub and stackOverflow
 
+### The Readme.md file
+[Readme.md](/TheNewArthur/Markdown-Excercise/blob/main/Readme.md)
 
+### References
 
-## References
-
-[The markdown guide](https://www.markdownguide.org/getting-started/)
+[The Markdown guide](https://www.markdownguide.org/getting-started/)
 
