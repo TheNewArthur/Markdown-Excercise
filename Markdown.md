@@ -12,6 +12,12 @@ Markdown is a plain text file text editor, also called a markup language, which 
 - Markdown is usable for everything -creating files, websites,...-
 - Markdown is supported by gitHub and stackOverflow
 
+## Trying code
+
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+
 ### The Readme.md file
 [Readme.md](README.md)
 
