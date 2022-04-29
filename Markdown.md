@@ -9,16 +9,20 @@ Markdown is a plain text file text editor, also called a markup language, which 
 - Markdown is OS independent -It can be used on every existing OS-
 - Markdown is future proof -even if the program you are using to make Markdown files stops working, you can use another one without any losses of content-
 - Markdown files can be edited in every application -that means you can change applications if you want and not lose any content-
-- Markdown is usable for everything -creating files, websites,...-
+- Markdown is usable for everything
+    * making websites
+    * making notes
+    * creating documents
+    * ...
 - Markdown is supported by gitHub and stackOverflow
 
 ## Trying code
 
 <script type="text/javascript">
-    alert("Hello!");
+    alert("Just trying something out");
 </script>
 
-## Trying pictures
+## Just a picture
 
 <img src="https://static.wikia.nocookie.net/initiald/images/5/52/AE86T_Manga_Stage_1.png/revision/latest/scale-to-width-down/1000?cb=20200502125651" alt="logo" width="200"/>
 
